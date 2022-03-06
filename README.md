@@ -32,15 +32,14 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/iningmeng)
 
 -   😄Read more about my [Blog](http://www.183.co/)
--   👯Follow me on [掘金](https://juejin.cn/user/4212984286808056) , [CSDN](https://blog.csdn.net/iningmeng) , [Twitter](https://twitter.com/Allen))
+-   👯Follow me on [掘金](https://juejin.cn/user/4212984286808056) , [CSDN](https://blog.csdn.net/iningmeng) , [Gitee](https://gitee.com/zhouzongyan))
 
-![](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=red)
-![](https://img.shields.io/badge/-PostgreSql-008000?style=flat-square&logo=PostgreSql&labelColor=90EE90&color=fff)
-![](https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=Go&labelColor=ffffff&color=61DAFB)
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
-
-![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=Java&logoColor=red)
+![](https://img.shields.io/badge/-PostgreSql-008000?style=for-the-badge&logo=PostgreSql&labelColor=90EE90&color=fff)
+![](https://img.shields.io/badge/-Go-29beb0?style=for-the-badge&logo=Go&labelColor=ffffff&color=61DAFB)
+![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=for-the-badge&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=for-the-badge&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 [![](https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff)](https://gist.github.com/zhouzongyan)
 ![](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
