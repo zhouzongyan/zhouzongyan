@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/iningmeng)
 
 -   😄Read more about my [Blog](http://www.183.co/)
--   👯Follow me on [掘金](https://juejin.cn/user/4212984286808056) , [CSDN](https://blog.csdn.net/iningmeng) , [Gitee](https://gitee.com/zhouzongyan))
+-   👯Follow me on [掘金](https://juejin.cn/user/4212984286808056) , [CSDN](https://blog.csdn.net/iningmeng) , [Gitee](https://gitee.com/zhouzongyan), [OSCHINA](https://my.oschina.net/iningmeng))
 
 ![](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=Java&logoColor=red)
 ![](https://img.shields.io/badge/-PostgreSql-008000?style=for-the-badge&logo=PostgreSql&labelColor=90EE90&color=fff)
