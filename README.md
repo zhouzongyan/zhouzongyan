@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/掘金-blue?style=flat-square)](https://juejin.cn/user/4212984286808056)
 [![](https://img.shields.io/badge/-CSDN-FF3C00?style=flat-square)](https://blog.csdn.net/iningmeng)
 [![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/iningmeng)
+[![](https://img.shields.io/badge/SegmentFault-%E6%80%9D%E5%90%A6-green)](https://segmentfault.com/u/zhouzongyan)
 
 -   😄Read more about my [Blog](http://www.183.co/)
 -   👯Follow me on [掘金](https://juejin.cn/user/4212984286808056) , [CSDN](https://blog.csdn.net/iningmeng) , [Gitee](https://gitee.com/zhouzongyan), [OSCHINA](https://my.oschina.net/iningmeng))
