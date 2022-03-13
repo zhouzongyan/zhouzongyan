@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/zhouzongyan">
     <div align="right" >
-        <img align="right" src="https://count.getloli.com/get/@:zhouzongyan" alt="周小天" />
+        <img align="right" src="https://count.getloli.com/get/@zhouzongyan" alt="周小天" />
     </div>
 </a>
 
 <!-- ======================================================================== -->
 
 ##### A lovely web developer based in China.
+
 
 [![](https://img.shields.io/badge/-FedTop-005A2B?style=flat-square&labelColor=005A2B&logo=Julia&logoColor=fff)](http://www.183.co/)
 [![](https://img.shields.io/badge/-zhouzongyan-E6162D?style=flat-square&labelColor=9D1620&logo=gitee&logoColor=white)](https://gitee.com/zhouzongyan)
