@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! I'm zhouzongya~ 👋
+### Hi there! I'm zhouzongyan~ 👋
 
 <a href="https://github.com/zhouzongyan">
     <div align="right" >
